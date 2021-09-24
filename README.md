@@ -4,7 +4,7 @@ This is a bot I am working on using [MineFlayer](https://github.com/PrismarineJS
 Made for the group [The Imperials](https://discord.gg/tYMF7Rb5JY)
 
 ## How to use it
-First install Node.js >= 14 from nodejs.org then:
+First install Node.js >= 14 from https://nodejs.org/en/ then:
 
 _npm install mineflayer_
 
