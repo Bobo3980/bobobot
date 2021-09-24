@@ -10,4 +10,4 @@ install Node.js >= 14 from https://nodejs.org/en/ then:
 ```
 npm install mineflayer
 ```
-Navaigate to this folder and run ``` node index.js ``` put in your email, password, and server ip then you'll be good to go.
+Navigate to this folder and run ``` node index.js ``` put in your email, password, and server ip then you'll be good to go.
