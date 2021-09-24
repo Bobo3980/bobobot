@@ -7,7 +7,7 @@ Made for the group [The Imperials](https://discord.gg/tYMF7Rb5JY)
 Create a folder put all the files downloaded from here into the this new folder
 
 install Node.js >= 14 from https://nodejs.org/en/ then:
-
-_npm install mineflayer_
-
-run node index.js put in your email, password, and server ip then you'll be good to go.
+```
+npm install mineflayer
+```
+run ``` node index.js ``` put in your email, password, and server ip then you'll be good to go.
