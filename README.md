@@ -4,8 +4,10 @@ This is a bot I am working on using [MineFlayer](https://github.com/PrismarineJS
 Made for the group [The Imperials](https://discord.gg/tYMF7Rb5JY)
 
 ## How to use it
-First install Node.js >= 14 from https://nodejs.org/en/ then:
+Create a folder put all the files downloaded from here into the this new folder
+
+install Node.js >= 14 from https://nodejs.org/en/ then:
 
 _npm install mineflayer_
 
-after that just run node index.js and it should work if there are any issues be sure to tell me I'll try to help
+run node index.js put in your email, password, and server ip then you'll be good to go.
