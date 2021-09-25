@@ -4,7 +4,8 @@ This is a bot for Minecraft I am working on using [MineFlayer](https://github.co
 Made for the group [The Imperials](https://discord.gg/tYMF7Rb5JY)
 
 ## How to use it
-Create a folder put all the files downloaded from here into the this new folder
+
+Download the zip open it and take out the new folder.
 
 install Node.js >= 14 from https://nodejs.org/en/ then:
 ```
