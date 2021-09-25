@@ -10,9 +10,9 @@ Download the zip open it and take out the new folder.
 install Node.js >= 14 from https://nodejs.org/en/ then:
 
 Navigate to the folder and run
-```
-npm install mineflayer
-```
+
+```npm install mineflayer```
+
 ```npm install discord-rpc```
 
 When done with that run ``` node index.js ``` put in your email, password, and server ip then you'll be good to go.
