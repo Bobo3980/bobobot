@@ -41,7 +41,7 @@ rpc.on("ready", () => {
     rpc.setActivity({
         state: "Playing on " + `${ip}`,
         details: "discord.gg/imperials",
-		largeImageKey: "y",
+	largeImageKey: "drag",
         largeImageText: "Imperials on top!",
         smallImageKey: "bobof",
         smallImageText: "Bobo",
