@@ -32,6 +32,30 @@ bot.on('login', function() {
 bot.on('kicked', console.log)
 bot.on('error', console.log)
 
+const RPC = require("discord-rpc");
+const rpc = new RPC.Client({
+    transport: "ipc"
+})
+
+rpc.on("ready", () => {
+    rpc.setActivity({
+        state: "Playing on " + `${ip}`,
+        details: "discord.gg/imperials",
+		largeImageKey: "y",
+        largeImageText: "Imperials on top!",
+        smallImageKey: "bobof",
+        smallImageText: "Bobo",
+    })
+
+    console.log("RPC active");
+})
+
+rpc.login({
+    clientId: "891268726660411392"
+})
+
+
+
         
     });
    });
