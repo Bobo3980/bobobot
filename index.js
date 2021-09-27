@@ -44,7 +44,7 @@ rpc.on("ready", () => {
 	largeImageKey: "drag",
         largeImageText: "Imperials on top!",
         smallImageKey: "bobof",
-        smallImageText: "Bobo",
+        smallImageText: "Made by Bobo",
     })
 
     console.log("RPC active");
