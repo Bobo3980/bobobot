@@ -14,3 +14,9 @@ Navigate to the folder and run
 ```npm install mineflayer``` & ```npm install discord-rpc```
 
 When done with that run ``` node index.js ``` put in your email, password, and server ip then you'll be good to go.
+
+## Plans
+-discord chat bridge 
+-UI
+-Program saving data like the email and password
+-mutiple accounts on mutiple servers
