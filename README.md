@@ -16,7 +16,10 @@ Navigate to the folder and run
 When done with that run ``` node index.js ``` put in your email, password, and server ip then you'll be good to go.
 
 ## Plans
--discord chat bridge 
+-discord chat bridge
+
 -UI
+
 -Program saving data like the email and password
+
 -mutiple accounts on mutiple servers
