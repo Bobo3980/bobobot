@@ -20,6 +20,6 @@ When done with that run ``` node index.js ``` put in your email, password, and s
 
 -UI
 
--Program saving data like the email and password
+-saving data like the email and password
 
 -mutiple accounts on mutiple servers
