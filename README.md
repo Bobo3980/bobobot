@@ -23,3 +23,5 @@ When done with that run ``` node index.js ``` put in your email, password, and s
 -saving data like the email and password
 
 -mutiple accounts on mutiple servers
+
+-Make it idiot proof
