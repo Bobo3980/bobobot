@@ -20,7 +20,7 @@ When done with that run ``` node index.js ``` put in your email, password, and s
 
 -UI
 
--saving data like the email and password
+-saving email and password so don't have to retype it in 
 
 -mutiple accounts on mutiple servers
 
