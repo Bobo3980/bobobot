@@ -3,7 +3,7 @@ This is a bot for Minecraft I am working on using [MineFlayer](https://github.co
 
 Made for the group [The Imperials](https://discord.gg/tYMF7Rb5JY)
 
-## How to use it
+## How to use 
 
 Download the zip open it and take out the new folder.
 
@@ -19,8 +19,6 @@ When done with that run ``` node index.js ``` put in your email, password, and s
 -discord chat bridge
 
 -UI
-
--saving email and password so don't have to retype it in 
 
 -mutiple accounts on mutiple servers
 
