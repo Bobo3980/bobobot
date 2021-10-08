@@ -20,7 +20,7 @@ const bot = mineflayer.createBot({
 
 
 bot.on('playerLeft', function(player) {
-  bot.chat("bye " + player.username + " IMPERIALS ON TOP");
+  bot.chat("bye " + player.username + " IMPERIALS ON TOP!");
 });
 
 bot.on('login', function() {
